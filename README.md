@@ -3,7 +3,7 @@
 ## About Me
 - I’m currently learning Data Analytics and AI at Wecan Academy.
 - I'm interested in AI and Data Science.
-- 🤔 I’m looking to collaborate on beginner-friendly open source projects.
+- I’m looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
 - Git and GitHub
@@ -13,4 +13,4 @@
 -Creation of GitHub account(https://github.com/Lucy77-ux/Lucy77-ux/edit/main/README.md)
 
 ## How to Reach Me
--lucymwaura778@gmail.com
+- lucymwaura778@gmail.com
