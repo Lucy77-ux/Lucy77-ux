@@ -3,7 +3,7 @@
 ## About Me
 - I’m currently learning Data Analytics and AI at Wecan Academy.
 - I'm interested in AI and Data Science.
-- I’m looking to collaborate on beginner-friendly open source projects.
+- I’m looking to collaborate on beginner-friendly AI automation and Data Analytics projects.
 
 ## Skills I'm Building
 - Git and GitHub
