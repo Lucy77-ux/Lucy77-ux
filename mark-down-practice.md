@@ -15,10 +15,17 @@ https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 **Lists**
 
 1.AI
+
 2.SQL
+
 3.PowerBI
+
+**Steps**
+
 -Step 1: Gather data
+
 -Step 2: Clean and Tansform
+
 -Step 3: Build Dashboards
 
 **Table**
