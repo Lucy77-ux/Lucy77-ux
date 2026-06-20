@@ -26,7 +26,7 @@ https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 
 -Step 2: Clean and Tansform
 
--Step 3: Build Dashboards
+-Step 3: Build Interactive Dashboards
 
 **Table**
 
