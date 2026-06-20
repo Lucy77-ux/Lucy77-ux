@@ -8,7 +8,7 @@ To build **AI** Automation Projects and create strong 'PowerBI' Dashboards for *
 
 **Links**
 
-[Link text] (https://github.com/Lucy77-ux)
+https://github.com/Lucy77-ux
 [Link text] (https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/)
 
 **Lists**
