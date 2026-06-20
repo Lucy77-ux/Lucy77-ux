@@ -30,8 +30,8 @@ https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 
 **Table**
 
-Tool         Purpose                        Link
-SQL        To query data                    https://www.udemy.com/topic/sql/
+Tool       |Purpose                        |Link
+SQL        |To query data                  |https://www.udemy.com/topic/sql/
 
 PowerBI    To createinteractive dashboards  https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 
