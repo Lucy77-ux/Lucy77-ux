@@ -53,9 +53,10 @@ I want to venture into:
 2. Data Science
 
 **My Achievements**
-- [ ] Building ineractive PowerBI dashboards
+- [.] Building ineractive PowerBI dashboards
 - [ ] Building AI Aomation projects
 - [ ] Querying data accurately with SQL
 
 **My Portfolio**
-[Link text] (https://github.com/Lucy77-ux)
+
+(https://github.com/Lucy77-ux)
