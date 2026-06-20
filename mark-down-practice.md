@@ -9,6 +9,7 @@ To build **AI** Automation Projects and create strong 'PowerBI' Dashboards for *
 **Links**
 
 https://github.com/Lucy77-ux
+
 https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 
 **Lists**
@@ -23,10 +24,9 @@ https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 **Table**
 
 Tool         Purpose                        Link
-SQL        To query data                    [Link text]
-(https://www.udemy.com/topic/sql/)
-PowerBI    To createinteractive dashboards  [Link Text]
-(https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/)
+SQL        To query data                    https://www.udemy.com/topic/sql/
+
+PowerBI    To createinteractive dashboards  https://www.udemy.com/course/microsoft-power-bi-for-data-analysis-free-course/
 
 **Task List**
 
@@ -53,10 +53,10 @@ I want to venture into:
 2. Data Science
 
 **My Achievements**
-- [.] Building ineractive PowerBI dashboards
+- [ ] Building ineractive PowerBI dashboards
 - [ ] Building AI Aomation projects
 - [ ] Querying data accurately with SQL
 
 **My Portfolio**
 
-(https://github.com/Lucy77-ux)
+https://github.com/Lucy77-ux
